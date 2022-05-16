@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HernanTheProfessor
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning-->next stop==Neural Networks with TensorFlow and Keras
+- 🌱 I’m currently learning Machine Learning-->next stop==Feature Engineering---->next milestone==Neural Networks with TensorFlow and Keras.
 - 💞️ I’m looking to collaborate on EDA and Machine Learning Projects
 
 
